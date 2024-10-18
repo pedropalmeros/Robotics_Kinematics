@@ -1,7 +1,0 @@
-EjesPrincipales(10,2)
-EjesPrincipales(1,5)
-% Definiendo los vectores de referencial 0
-x0 = [1; 0; 0;1];
-y0 = [0; 1; 0;1];
-z0 = [0; 0; 1];
-% Definiendo referencial 1
