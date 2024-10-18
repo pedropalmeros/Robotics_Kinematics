@@ -1,0 +1,7 @@
+1.- Crear la matriz de rotación en X
+2.- Crear la matriz de rotación en Y
+3.- Crear la matriz de rotación en Z
+4.- Hacer animación de la rotación en X
+5.- Hacer animación de la rotación en y
+6.- Hacer animación de la rotación en z
+
